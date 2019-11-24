@@ -1,0 +1,7 @@
+
+# help to install pymc3 (which uses theano):
+https://stackoverflow.com/questions/49158493/lazylinker-c-import-error-theano
+
+# pymc3 article on variational inference for Bayesian deep learning:
+https://docs.pymc.io/notebooks/bayesian_neural_network_advi.html
+
